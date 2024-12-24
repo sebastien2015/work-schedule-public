@@ -20,7 +20,7 @@ function ScheduleTable() {
 
   return (
     <div className="container">
-      <h2>山城辣妹子 上野店 出勤时间登录</h2>
+      <h2>XXXXXXXX 上野店 出勤时间登录</h2>
       <table>
         <thead>
           <tr>
